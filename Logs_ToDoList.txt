@@ -1,0 +1,66 @@
+2021-08-19 11:22:43.398 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:26593227
+2021-08-19 11:24:19.767 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:26689597
+2021-08-19 11:25:48.132 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:26777961
+2021-08-19 11:32:12.807 3093-3112/com.android.todolist E/ndroid.todolis: failed to connect to jdwp control socket: Connection refused
+2021-08-19 11:34:05.731 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27275560
+2021-08-19 11:34:05.746 3093-3093/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-08-19 11:34:33.156 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27302985
+2021-08-19 11:34:35.618 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27305441, downTime=27305441, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:34:35.741 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27305566, downTime=27305441, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:34:36.621 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27306444, downTime=27306444, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:34:36.761 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27306587, downTime=27306444, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:34:43.704 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27313526, downTime=27313526, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:34:43.797 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27313624, downTime=27313526, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:00.133 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27389963
+2021-08-19 11:36:00.151 3093-3093/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-08-19 11:36:03.709 3093-3093/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-08-19 11:36:03.710 3093-3093/com.android.todolist I/AssistStructure: Flattened final assist data: 1524 bytes, containing 1 windows, 10 views
+2021-08-19 11:36:18.061 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27407883, downTime=27407883, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:18.134 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27407960, downTime=27407883, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:20.030 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27409859
+2021-08-19 11:36:21.922 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27411751
+2021-08-19 11:36:21.938 3093-3093/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-08-19 11:36:23.966 3093-3093/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-08-19 11:36:23.968 3093-3093/com.android.todolist I/AssistStructure: Flattened final assist data: 1524 bytes, containing 1 windows, 10 views
+2021-08-19 11:36:33.566 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27423395
+2021-08-19 11:36:35.840 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27425661, downTime=27425661, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:35.904 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27425731, downTime=27425661, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:36.821 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27426645, downTime=27426645, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:36.888 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27426714, downTime=27426645, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:37.631 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27427454, downTime=27427454, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:37.699 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27427526, downTime=27427454, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:36:53.887 3093-3190/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0x7e7d59fc00 (RippleDrawable) with handle 0x7e7e206da0
+2021-08-19 11:36:59.200 3093-3093/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-08-19 11:36:59.203 3093-3093/com.android.todolist I/AssistStructure: Flattened final assist data: 3080 bytes, containing 2 windows, 25 views
+2021-08-19 11:37:05.164 3093-3190/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0x7e7d70a000 (RippleDrawable) with handle 0x7e1d9eb7a0
+2021-08-19 11:37:19.884 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27469713
+2021-08-19 11:37:19.900 3093-3093/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-08-19 11:37:25.201 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27475030
+2021-08-19 11:37:34.823 3093-3093/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-08-19 11:37:34.826 3093-3093/com.android.todolist I/AssistStructure: Flattened final assist data: 3080 bytes, containing 2 windows, 25 views
+2021-08-19 11:37:43.408 3093-3190/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0x7e7d98f900 (RippleDrawable) with handle 0x7e1d9fb580
+2021-08-19 11:37:45.653 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27495482
+2021-08-19 11:37:45.666 3093-3093/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-08-19 11:37:47.523 3093-3093/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-08-19 11:37:47.530 3093-3093/com.android.todolist I/AssistStructure: Flattened final assist data: 1520 bytes, containing 1 windows, 10 views
+2021-08-19 11:38:04.030 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27513852, downTime=27513852, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:04.141 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27513967, downTime=27513852, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:05.186 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27515010, downTime=27515010, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:05.253 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27515079, downTime=27515010, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:06.947 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27516776
+2021-08-19 11:38:06.964 3093-3093/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-08-19 11:38:09.484 3093-3093/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-08-19 11:38:09.486 3093-3093/com.android.todolist I/AssistStructure: Flattened final assist data: 1520 bytes, containing 1 windows, 10 views
+2021-08-19 11:38:24.966 3093-3093/com.android.todolist I/System.out: logcat en 0
+2021-08-19 11:38:25.918 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27535741, downTime=27535741, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:25.991 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27535816, downTime=27535741, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:27.219 3093-3093/com.android.todolist I/Timeline: Timeline: Activity_launch_request time:27537048
+2021-08-19 11:38:27.237 3093-3093/com.android.todolist I/Toast: Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+2021-08-19 11:38:33.874 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27543694, downTime=27543694, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:33.975 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27543802, downTime=27543694, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:42.136 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27551958, downTime=27551958, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:42.251 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27552078, downTime=27551958, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:43.633 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27553457, downTime=27553457, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:43.735 3093-3093/com.android.todolist D/MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=27553561, downTime=27553457, deviceId=-1, source=0x101, displayId=0 }
+2021-08-19 11:38:48.929 3093-3116/com.android.todolist W/System: A resource failed to call dispose. 
+2021-08-19 11:38:48.932 3093-3116/com.android.todolist W/System: A resource failed to call dispose. 
